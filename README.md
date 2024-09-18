@@ -2,10 +2,10 @@
 
 ## Demo de clase de github
 
-~~python
+~~~python
 print('Empezamos con la parte de Python')
-~~
+~~~
 
-~~r
+~~~r
 x <- 49
-~~
+~~~
